@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../e3-cart" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3-cart-interface" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3-cart-service" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3-cart-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3-content" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3-content-interface" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3-content-service" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3-item-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3-order-service" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3-order-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3-portal-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3-search" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3-search-interface" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3-search-service" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3-search-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3-sso-interface" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3-sso-service" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3-sso-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3common" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3manager" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3managerdao" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3managerinterface" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3managerpojo" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3managerservice" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3managerweb" />
+    <file type="web" url="file://$PROJECT_DIR$" />
+    <file type="web" url="file://$PROJECT_DIR$/../generatorSqlmapCustom" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../e3managerweb/pom.xml" />
+        <option value="$PROJECT_DIR$/../pagehelper-fix/pagehelper/pom.xml" />
+        <option value="D:/黑马JavaWeb一整套视频/80-93天....项目二：宜立方商城/01.教案-3.0/01.参考资料/FastDFS/bin/fastdfs_client/pom.xml" />
+        <option value="$PROJECT_DIR$/../e3-search-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../e3-order/pom.xml" />
+        <option value="$PROJECT_DIR$/../e3-order-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/../e3-order-web/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectResources">
+    <resource url="http://code.alibabatech.com/schema/dubbo" location="E:/dubbo.xsd" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+</project>

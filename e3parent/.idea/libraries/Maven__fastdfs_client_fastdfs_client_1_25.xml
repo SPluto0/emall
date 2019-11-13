@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: fastdfs_client:fastdfs_client:1.25">
+    <CLASSES>
+      <root url="jar://G:/Maven_Repository/fastdfs_client/fastdfs_client/1.25/fastdfs_client-1.25.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/黑马JavaWeb一整套视频/80-93天....项目二：宜立方商城/01.教案-3.0/01.参考资料/FastDFS/bin/fastdfs_client/fastdfs_client-1.25-javadoc.jar!/" />
+      <root url="jar://G:/Maven_Repository/fastdfs_client/fastdfs_client/1.25/fastdfs_client-1.25-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/黑马JavaWeb一整套视频/80-93天....项目二：宜立方商城/01.教案-3.0/01.参考资料/FastDFS/bin/fastdfs_client/fastdfs_client-1.25-sources.jar!/" />
+      <root url="jar://G:/Maven_Repository/fastdfs_client/fastdfs_client/1.25/fastdfs_client-1.25-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
